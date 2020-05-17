@@ -1,0 +1,7 @@
+linux_android_commandline_url: "https://dl.google.com/android/repository/platform-tools-latest-linux.zip"
+win_android_studio_url: "https://redirector.gvt1.com/edgedl/android/studio/install/3.6.3.0/android-studio-ide-192.6392135-windows.exe"
+win_android_commandline_url: "https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
+mac_homebrew_url: "https://raw.githubusercontent.com/Homebrew/install/master/install"
+mac_android_package_status: present
+mac_android_commandline_url: "https://dl.google.com/android/repository/platform-tools-latest-darwin.zip"
+android_tools_filter: "1,2,3,5,37"
